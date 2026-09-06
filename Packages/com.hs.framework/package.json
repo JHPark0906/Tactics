@@ -1,8 +1,8 @@
 {
   "name": "com.hs.framework",
   "version": "0.1.0",
-  "displayName": "HS Framework",
-  "description": "\ubd80\ud2b8\uc2a4\ud2b8\ub7a9\uacfc \ub7f0\ud0c0\uc784 \uc218\uba85\uc8fc\uae30, \uc52c \uc804\ud658, \uc124\uc815(\uadf8\ub798\ud53d\u00b7\uc624\ub514\uc624\u00b7\uc785\ub825\u00b7\ub85c\ucf00\uc77c), \uc800\uc7a5, UI \ucc3d, \uc0c1\ud638\uc791\uc6a9\uacfc \uc544\uc774\ud15c, \uce90\ub9ad\ud130, \ud589\ub3d9\ud2b8\ub9ac AI, \uc624\ub514\uc624\ub97c \uc81c\uacf5\ud558\ub294 Unity \uac8c\uc784 \uacf5\ud1b5 \ud504\ub808\uc784\uc6cc\ud06c\uc774\ub2e4. \uac8c\uc784 \ucf54\ub4dc\ub294 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \uace0\uce58\uc9c0 \uc54a\uace0, \uc758\uc874\uc131 \uc8fc\uc785 \ub808\uc9c0\uc2a4\ud2b8\ub9ac\uc640 \uc774\ubca4\ud2b8 \ubc84\uc2a4\uac00 \uc5ec\ub294 \ud655\uc7a5 \uc9c0\uc810\uc5d0 \uc5b9\ud600 \ub3d9\uc791\ud55c\ub2e4.",
+  "displayName": "Framework",
+  "description": "부트스트랩과 런타임 수명주기, 씬 전환, 설정(그래픽·오디오·입력·로케일), 저장, UI 창, 상호작용과 아이템, 캐릭터, 행동트리 AI, 오디오를 제공하는 Unity 게임 공통 프레임워크입니다. 게임 코드는 프레임워크를 고치지 않고, 의존성 주입 레지스트리와 이벤트 버스가 여는 확장 지점에 얹혀 동작합니다.",
   "unity": "6000.3",
   "author": {
     "name": "Junghyuk"
