@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Foundation",
+    "rootNamespace": "HS.Framework.Foundation",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

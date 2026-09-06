@@ -1,0 +1,46 @@
+{
+    "name": "HS.Framework.Tests.EditMode",
+    "rootNamespace": "HS.Framework.Tests.EditMode",
+    "references": [
+        "HS.Framework.Tests.Support",
+        "HS.Framework.Ability",
+        "HS.Framework.AI",
+        "HS.Framework.Audio",
+        "HS.Framework.Bootstrap",
+        "HS.Framework.Character",
+        "HS.Framework.Character.FirstPerson",
+        "HS.Framework.Editor",
+        "HS.Framework.Foundation",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Interaction",
+        "HS.Framework.Item",
+        "HS.Framework.Persistence",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Runtime",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings",
+        "HS.Framework.UI",
+        "UniTask",
+        "MessagePipe",
+        "VContainer",
+        "Unity.InputSystem",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

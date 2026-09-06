@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Gameplay",
+    "rootNamespace": "HS.Framework.Gameplay",
+    "references": ["HS.Framework.Ability", "HS.Framework.Foundation", "MessagePipe", "VContainer", "UniTask"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

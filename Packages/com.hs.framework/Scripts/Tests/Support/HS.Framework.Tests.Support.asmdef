@@ -1,0 +1,20 @@
+{
+    "name": "HS.Framework.Tests.Support",
+    "rootNamespace": "HS.Framework.Tests.Support",
+    "references": [
+        "HS.Framework.AI",
+        "HS.Framework.Foundation",
+        "MessagePipe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

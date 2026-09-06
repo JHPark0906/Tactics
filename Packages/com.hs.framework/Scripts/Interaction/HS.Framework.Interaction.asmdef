@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Interaction",
+    "rootNamespace": "HS.Framework.Interaction",
+    "references": ["HS.Framework.Scene", "HS.Framework.Settings", "UniTask", "VContainer", "HS.Framework.Foundation", "Unity.InputSystem", "HS.Framework.Ability"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

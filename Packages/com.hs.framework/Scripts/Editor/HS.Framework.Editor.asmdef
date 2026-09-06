@@ -1,0 +1,23 @@
+{
+    "name": "HS.Framework.Editor",
+    "rootNamespace": "HS.Framework.Editor",
+    "references": [
+        "HS.Framework.Ability",
+        "HS.Framework.Bootstrap",
+        "HS.Framework.Interaction",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.UI",
+    "rootNamespace": "HS.Framework.UI",
+    "references": ["HS.Framework.Foundation", "HS.Framework.Interaction", "HS.Framework.ProjectManagement", "HS.Framework.Scene", "HS.Framework.Settings", "UniTask", "VContainer", "Unity.InputSystem", "Unity.TextMeshPro"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

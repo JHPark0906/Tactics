@@ -1,0 +1,25 @@
+{
+    "name": "HS.Framework.Ability.Tests.EditMode",
+    "rootNamespace": "HS.Framework.Ability.Tests.EditMode",
+    "references": [
+        "HS.Framework.Ability",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

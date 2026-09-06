@@ -1,0 +1,29 @@
+{
+    "name": "Tactics.Game.Editor",
+    "rootNamespace": "HS.Tactics.Editor",
+    "references": [
+        "HS.Framework.AI",
+        "HS.Framework.Ability",
+        "HS.Framework.Ability.BehaviourTree",
+        "HS.Framework.Character",
+        "HS.Framework.Foundation",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Scene",
+        "HS.Framework.UI",
+        "Unity.TextMeshPro",
+        "Unity.Cinemachine",
+        "UnityEngine.UI",
+        "Tactics.Game"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

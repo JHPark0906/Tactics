@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Scene",
+    "rootNamespace": "HS.Framework.Scene",
+    "references": ["HS.Framework.Foundation", "UniTask", "MessagePipe", "VContainer", "UnityEngine.UI"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

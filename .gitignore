@@ -1,0 +1,35 @@
+# 명시한 자체 코드와 문서만 추적한다.
+*
+!*/
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/docs/*.md
+!/Assets/_HS/Tactics/Scripts/**/*.cs
+!/Assets/_HS/Tactics/Scripts/**/*.asmdef
+!/Assets/_HS/Tactics/Scripts/**/*.asmref
+!/Assets/_HS/Tactics/Scripts/**/*.rsp
+!/Assets/_HS/Tactics/Scripts/**/*.meta
+!/Assets/_HS.meta
+!/Assets/_HS/Tactics.meta
+!/Assets/_HS/Tactics/Scripts.meta
+!/Packages/com.hs.framework/Scripts/**/*.cs
+!/Packages/com.hs.framework/Scripts/**/*.asmdef
+!/Packages/com.hs.framework/Scripts/**/*.asmref
+!/Packages/com.hs.framework/Scripts/**/*.rsp
+!/Packages/com.hs.framework/Scripts/**/*.meta
+!/Packages/com.hs.framework/Scripts.meta
+!/Packages/com.hs.framework/README.md
+!/Packages/com.hs.framework/README.md.meta
+!/Packages/com.hs.framework/package.json
+!/Packages/com.hs.framework/package.json.meta
+
+# 생성 폴더는 탐색하지 않는다.
+/Library/
+/Temp/
+/obj/
+/Logs/
+/Build/
+/Builds/
+/UserSettings/
+/.exports/

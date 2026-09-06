@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Ability",
+    "rootNamespace": "HS.Framework.Ability",
+    "references": ["VContainer"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

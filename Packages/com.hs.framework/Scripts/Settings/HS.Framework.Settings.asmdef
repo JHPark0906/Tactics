@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Settings",
+    "rootNamespace": "HS.Framework.Settings",
+    "references": ["HS.Framework.Foundation", "HS.Framework.Persistence", "UniTask", "Unity.InputSystem", "Unity.Localization", "Unity.ResourceManager"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Tactics.Game.Tests.PlayMode",
+    "rootNamespace": "HS.Tactics.Tests.PlayMode",
+    "references": [
+        "HS.Framework.Tests.Support",
+        "HS.Framework.AI",
+        "HS.Framework.Ability",
+        "HS.Framework.Character",
+        "HS.Framework.Foundation",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Persistence",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Runtime",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings",
+        "HS.Framework.UI",
+        "Tactics.Game",
+        "Unity.Cinemachine",
+        "Unity.InputSystem",
+        "UnityEngine.UI",
+        "UniTask",
+        "MessagePipe",
+        "UnityEngine.TestRunner",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

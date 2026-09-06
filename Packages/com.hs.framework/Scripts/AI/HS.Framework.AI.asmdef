@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.AI",
+    "rootNamespace": "HS.Framework.AI",
+    "references": ["HS.Framework.Character", "HS.Framework.Foundation", "HS.Framework.Ability", "VContainer"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

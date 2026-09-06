@@ -1,0 +1,29 @@
+{
+    "name": "HS.Framework.Ability.BehaviourTree.Tests.EditMode",
+    "rootNamespace": "HS.Framework.Ability.BehaviourTree.Tests.EditMode",
+    "references": [
+        "HS.Framework.Tests.Support",
+        "HS.Framework.AI",
+        "HS.Framework.Ability",
+        "HS.Framework.Ability.BehaviourTree",
+        "HS.Framework.Foundation",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

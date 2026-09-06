@@ -1,0 +1,43 @@
+{
+    "name": "Tactics.Game.Tests.EditMode",
+    "rootNamespace": "HS.Tactics.Tests.EditMode",
+    "references": [
+        "HS.Framework.Tests.Support",
+        "HS.Framework.AI",
+        "HS.Framework.Ability",
+        "HS.Framework.Ability.BehaviourTree",
+        "HS.Framework.Character",
+        "HS.Framework.Foundation",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Persistence",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Runtime",
+        "HS.Framework.Scene",
+        "HS.Framework.UI",
+        "Tactics.Game",
+        "Unity.Cinemachine",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "UniTask",
+        "MessagePipe",
+        "VContainer",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

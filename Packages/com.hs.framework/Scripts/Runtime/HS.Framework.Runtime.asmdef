@@ -1,0 +1,27 @@
+{
+    "name": "HS.Framework.Runtime",
+    "rootNamespace": "HS.Framework.Runtime",
+    "references": [
+        "HS.Framework.Foundation",
+        "HS.Framework.Ability",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings",
+        "UniTask",
+        "MessagePipe",
+        "VContainer",
+        "MessagePipe.VContainer",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Persistence",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

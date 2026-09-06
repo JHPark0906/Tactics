@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Audio",
+    "rootNamespace": "HS.Framework.Audio",
+    "references": ["HS.Framework.Foundation", "HS.Framework.Settings"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

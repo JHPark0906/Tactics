@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Ability.BehaviourTree",
+    "rootNamespace": "HS.Framework.Ability.BehaviourTree",
+    "references": ["HS.Framework.AI", "HS.Framework.Ability"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

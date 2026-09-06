@@ -1,0 +1,25 @@
+{
+    "name": "HS.Framework.Bootstrap",
+    "rootNamespace": "HS.Framework.Bootstrap",
+    "references": [
+        "HS.Framework.Foundation",
+        "HS.Framework.Persistence",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Runtime",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings",
+        "UniTask",
+        "MessagePipe",
+        "VContainer",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

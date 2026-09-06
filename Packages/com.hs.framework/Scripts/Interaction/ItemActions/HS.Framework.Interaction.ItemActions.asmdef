@@ -1,0 +1,14 @@
+{
+    "name": "HS.Framework.Interaction.ItemActions",
+    "rootNamespace": "HS.Framework.Interaction.Actions",
+    "references": ["HS.Framework.Interaction", "HS.Framework.Item"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["R3.dll"],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

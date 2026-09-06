@@ -1,0 +1,39 @@
+{
+    "name": "Tactics.Game",
+    "rootNamespace": "HS.Tactics",
+    "references": [
+        "HS.Framework.AI",
+        "HS.Framework.Ability",
+        "HS.Framework.Ability.BehaviourTree",
+        "HS.Framework.Audio",
+        "HS.Framework.Bootstrap",
+        "HS.Framework.Character",
+        "HS.Framework.Foundation",
+        "HS.Framework.Gameplay",
+        "HS.Framework.Persistence",
+        "HS.Framework.ProjectManagement",
+        "HS.Framework.Runtime",
+        "HS.Framework.Scene",
+        "HS.Framework.Settings",
+        "HS.Framework.UI",
+        "UniTask",
+        "Unity.Cinemachine",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "VContainer",
+        "MessagePipe",
+        "MessagePipe.VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

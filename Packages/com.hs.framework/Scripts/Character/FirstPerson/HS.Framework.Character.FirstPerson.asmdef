@@ -1,0 +1,19 @@
+{
+    "name": "HS.Framework.Character.FirstPerson",
+    "rootNamespace": "HS.Framework.Character.FirstPerson",
+    "references": [
+        "HS.Framework.Character",
+        "HS.Framework.Settings",
+        "Unity.Cinemachine",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
