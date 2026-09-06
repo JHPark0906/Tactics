@@ -4,6 +4,7 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/LICENSE
 !/docs/*.md
 !/Assets/_HS/Tactics/Scripts/**/*.cs
 !/Assets/_HS/Tactics/Scripts/**/*.asmdef
@@ -20,6 +21,7 @@
 !/Packages/com.hs.framework/Scripts/**/*.meta
 !/Packages/com.hs.framework/Scripts.meta
 !/Packages/com.hs.framework/README.md
+!/Packages/com.hs.framework/LICENSE
 !/Packages/com.hs.framework/README.md.meta
 !/Packages/com.hs.framework/package.json
 !/Packages/com.hs.framework/package.json.meta
